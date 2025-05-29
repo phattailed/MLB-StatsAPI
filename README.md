@@ -20,7 +20,6 @@ A simple PowerShell module is provided in `PowerShell/StatsApi` to expose
 common functions from this library. It requires Python and this package to be
 available on the system. Import the module and then call the functions:
 
-Use `PowerShell/install_reqs.ps1` to install the Python dependencies if needed.
 
 ```powershell
 Import-Module ./PowerShell/StatsApi/StatsApi.psd1
